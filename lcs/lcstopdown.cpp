@@ -35,8 +35,8 @@ int lcs(string X,string Y,int m,int n)
 
 int main()
 {
-    string X = "AGGTAB";  
-    string Y = "GXTXAYB";  
+    string X = "hbvfgmapq";  
+    string Y = "cbhgrsfnmq";  
       
     int m = X.length();  
     int n = Y.length();  
